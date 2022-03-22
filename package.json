@@ -1,0 +1,24 @@
+{
+  "name": "project_html",
+  "version": "1.0.0",
+  "description": "HTML Project in GRSI classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobosilva/project_html.git"
+  },
+  "author": "Rodrigo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigobosilva/project_html/issues"
+  },
+  "homepage": "https://github.com/rodrigobosilva/project_html#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
