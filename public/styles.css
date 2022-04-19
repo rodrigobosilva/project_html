@@ -1,0 +1,46 @@
+/* everything */
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+.head1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #0000FF;
+    font-size: 50px;
+}
+    /* titles */
+/*
+    h1 {
+        color: rgb(255, 0, 0);
+        font-size: 50px;
+    }
+*/    
+h2{
+    color: #FFFF00;
+    font-size: 40px;
+}
+
+    /* paragraph */
+
+    /* header */
+
+header {
+    background-color: #0000FF;
+}
+
+    /* body */
+body {
+    background-color: #c1a4ee;
+}
+
+    /* footer */
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.letra_branca {
+    
+    color:#FFFFFF !important;
+}
