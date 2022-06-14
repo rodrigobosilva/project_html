@@ -15,6 +15,7 @@ body {
 
     /* footer */
 footer {
+
 }
 
     /* custom classes */
@@ -124,7 +125,6 @@ div.gallery_description{
     padding: 15px;
     text-align: center;
     color: black;
-    font-size: ;
 }
 
 div.article {
@@ -138,10 +138,14 @@ div.article h2 {
     border-bottom: solid black;
 }
 div.article p {
+    padding-left: 4px;
+    padding-right: 8px;
+    overflow: scroll;
     text-align: justify;
     text-indent: 20px;
     height: 250px;
     border-bottom: solid black;
+
 }
 
 .row {
